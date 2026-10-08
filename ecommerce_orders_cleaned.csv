@@ -1,0 +1,121 @@
+Order_ID,Order_Date,Customer_ID,City,Product,Category,Quantity,Unit_Price_INR,Discount_Rate,Payment_Method,Order_Status,Sales amount
+ORD-0001,2025-05-21,CUST-009,Indore,Coffee Mug,Home & Office,1,349,0.0,Net Banking,Delivered,349.0
+ORD-0002,2025-01-17,CUST-014,Bhopal,Bluetooth Headphones,Electronics,2,1499,0.0,Net Banking,Delivered,2998.0
+ORD-0003,2025-04-12,CUST-015,Delhi,Cotton T-Shirt,Fashion,1,599,0.15,Net Banking,Shipped,509.15
+ORD-0004,2025-01-04,CUST-028,Durg,Backpack,Accessories,3,1199,0.0,Debit Card,Returned,3597.0
+ORD-0005,2025-06-22,CUST-025,Indore,USB-C Cable,Electronics,1,299,0.0,Debit Card,Delivered,299.0
+ORD-0006,2025-01-23,CUST-008,Pune,Water Bottle,Accessories,2,399,0.1,UPI,Cancelled,718.2
+ORD-0007,2025-11-18,CUST-037,Bhopal,Running Shoes,Fashion,1,2299,0.15,UPI,Delivered,1954.15
+ORD-0008,2025-05-29,CUST-007,Pune,Wireless Mouse,Electronics,2,699,0.0,Debit Card,Delivered,1398.0
+ORD-0009,2025-07-06,CUST-023,Bhopal,Office Chair,Home & Office,2,5499,0.0,Debit Card,Delivered,10998.0
+ORD-0010,2025-11-28,CUST-041,Nagpur,Phone Stand,Electronics,4,499,0.0,Net Banking,Cancelled,1996.0
+ORD-0011,2025-08-25,CUST-041,Bhopal,Phone Stand,Electronics,1,499,0.1,Debit Card,Delivered,449.1
+ORD-0012,2025-01-17,CUST-018,Indore,Wireless Mouse,Electronics,1,699,0.05,Credit Card,Shipped,664.05
+ORD-0013,2025-06-11,CUST-032,Pune,Cotton T-Shirt,Fashion,3,599,0.0,Cash on Delivery,Returned,1797.0
+ORD-0014,2025-05-07,CUST-017,Pune,USB-C Cable,Electronics,1,299,0.15,Net Banking,Cancelled,254.15
+ORD-0015,2025-03-12,CUST-006,Raipur,Desk Lamp,Home & Office,1,899,0.15,UPI,Shipped,764.15
+ORD-0016,2025-12-15,CUST-005,Pune,USB-C Cable,Electronics,2,299,0.1,Cash on Delivery,Cancelled,538.2
+ORD-0017,2025-09-28,CUST-001,Indore,Cotton T-Shirt,Fashion,5,599,0.05,Net Banking,Cancelled,2845.25
+ORD-0018,2025-06-24,CUST-028,Nagpur,Backpack,Accessories,3,1199,0.0,Cash on Delivery,Delivered,3597.0
+ORD-0019,2025-05-15,CUST-033,Indore,Wireless Mouse,Electronics,4,699,0.15,Debit Card,Delivered,2376.6
+ORD-0020,2025-04-12,CUST-049,Nagpur,Coffee Mug,Home & Office,2,349,0.0,Net Banking,Delivered,698.0
+ORD-0021,2025-11-03,CUST-002,Indore,Running Shoes,Fashion,4,2299,0.05,Debit Card,Shipped,8736.2
+ORD-0022,2025-05-04,CUST-006,Delhi,Backpack,Accessories,1,1199,0.15,UPI,Delivered,1019.15
+ORD-0023,2025-03-07,CUST-011,Bilaspur,Running Shoes,Fashion,3,2299,0.1,Net Banking,Cancelled,6207.3
+ORD-0024,2025-04-19,CUST-045,Bhopal,Cotton T-Shirt,Fashion,1,599,0.15,Debit Card,Returned,509.15
+ORD-0025,2025-11-29,CUST-034,Delhi,Desk Lamp,Home & Office,5,899,0.05,UPI,Shipped,4270.25
+ORD-0026,2025-06-23,CUST-036,Bhopal,Notebook Set,Stationery,1,249,0.0,Net Banking,Cancelled,249.0
+ORD-0027,2025-12-29,CUST-005,Raipur,Notebook Set,Stationery,1,249,0.0,Debit Card,Delivered,249.0
+ORD-0028,2025-05-23,CUST-035,Nagpur,Bluetooth Headphones,Electronics,2,1499,0.1,Net Banking,Delivered,2698.2
+ORD-0029,2025-08-31,CUST-007,Indore,Cotton T-Shirt,Fashion,2,599,0.1,Cash on Delivery,Delivered,1078.2
+ORD-0030,2025-08-28,CUST-042,Indore,Water Bottle,Accessories,1,399,0.0,UPI,Returned,399.0
+ORD-0031,2025-02-25,CUST-013,Delhi,Desk Lamp,Home & Office,2,899,0.0,Credit Card,Delivered,1798.0
+ORD-0032,2025-08-25,CUST-029,Indore,Desk Lamp,Home & Office,1,899,0.0,UPI,Delivered,899.0
+ORD-0033,2025-01-08,CUST-011,Pune,Coffee Mug,Home & Office,5,349,0.0,Cash on Delivery,Delivered,1745.0
+ORD-0034,2025-07-25,CUST-025,Raipur,Office Chair,Home & Office,1,5499,0.0,Cash on Delivery,Delivered,5499.0
+ORD-0035,2025-08-21,CUST-045,Delhi,Backpack,Accessories,4,1199,0.05,Credit Card,Shipped,4556.2
+ORD-0036,2025-01-30,CUST-035,Raipur,Notebook Set,Stationery,1,249,0.15,Debit Card,Returned,211.65
+ORD-0037,2025-09-02,CUST-011,Raipur,Wireless Mouse,Electronics,1,699,0.15,Net Banking,Cancelled,594.15
+ORD-0038,2025-02-05,CUST-044,Bhopal,Bluetooth Headphones,Electronics,3,1499,0.15,Cash on Delivery,Delivered,3822.45
+ORD-0039,2025-10-19,CUST-039,Raipur,Bluetooth Headphones,Electronics,4,1499,0.0,Net Banking,Cancelled,5996.0
+ORD-0040,2025-10-26,CUST-021,Bilaspur,Bluetooth Headphones,Electronics,1,1499,0.15,Credit Card,Cancelled,1274.15
+ORD-0041,2025-05-03,CUST-009,Bilaspur,Coffee Mug,Home & Office,2,349,0.05,Cash on Delivery,Shipped,663.1
+ORD-0042,2025-02-07,CUST-040,Indore,Water Bottle,Accessories,4,399,0.0,UPI,Shipped,1596.0
+ORD-0043,2025-05-16,CUST-005,Bhopal,Running Shoes,Fashion,1,2299,0.0,Debit Card,Delivered,2299.0
+ORD-0044,2025-10-06,CUST-052,Raipur,Backpack,Accessories,1,1199,0.05,Net Banking,Cancelled,1139.05
+ORD-0045,2025-02-23,CUST-008,Indore,Backpack,Accessories,4,1199,0.0,Net Banking,Delivered,4796.0
+ORD-0046,2025-11-06,CUST-022,Bhopal,USB-C Cable,Electronics,1,299,0.0,Debit Card,Returned,299.0
+ORD-0047,2025-01-27,CUST-028,Bilaspur,Running Shoes,Fashion,2,2299,0.0,UPI,Returned,4598.0
+ORD-0048,2025-03-08,CUST-048,Delhi,Wireless Mouse,Electronics,1,699,0.05,Net Banking,Delivered,664.05
+ORD-0049,2025-01-05,CUST-045,Nagpur,Phone Stand,Electronics,1,499,0.0,Net Banking,Delivered,499.0
+ORD-0050,2025-10-26,CUST-028,Nagpur,Wireless Mouse,Electronics,3,699,0.15,UPI,Delivered,1782.45
+ORD-0051,2025-01-21,CUST-044,Bhopal,Backpack,Accessories,1,1199,0.05,UPI,Delivered,1139.05
+ORD-0052,2025-07-28,CUST-010,Bhopal,Water Bottle,Accessories,3,399,0.15,Credit Card,Returned,1017.45
+ORD-0053,2025-01-13,CUST-022,Pune,USB-C Cable,Electronics,3,299,0.0,Credit Card,Returned,897.0
+ORD-0054,2025-12-26,CUST-003,Delhi,Backpack,Accessories,1,1199,0.0,Credit Card,Shipped,1199.0
+ORD-0055,2025-08-24,CUST-053,Bhopal,Notebook Set,Stationery,3,249,0.05,Credit Card,Delivered,709.65
+ORD-0056,2025-07-24,CUST-005,Bilaspur,Wireless Mouse,Electronics,2,699,0.05,Debit Card,Delivered,1328.1
+ORD-0057,2025-12-14,CUST-002,Indore,Coffee Mug,Home & Office,2,349,0.15,Debit Card,Delivered,593.3
+ORD-0058,2025-05-16,CUST-039,Pune,USB-C Cable,Electronics,2,299,0.0,Debit Card,Delivered,598.0
+ORD-0059,2025-08-12,CUST-008,Pune,Phone Stand,Electronics,3,499,0.15,Net Banking,Cancelled,1272.45
+ORD-0060,2025-12-29,CUST-034,Bhopal,Notebook Set,Stationery,1,249,0.1,Debit Card,Delivered,224.1
+ORD-0061,2025-12-07,CUST-021,Indore,Desk Lamp,Home & Office,1,899,0.05,Debit Card,Cancelled,854.05
+ORD-0062,2025-07-29,CUST-045,Bilaspur,Running Shoes,Fashion,1,2299,0.05,Net Banking,Shipped,2184.05
+ORD-0063,2025-12-07,CUST-048,Nagpur,USB-C Cable,Electronics,1,299,0.1,Net Banking,Returned,269.1
+ORD-0064,2025-10-08,CUST-019,Bhopal,Cotton T-Shirt,Fashion,1,599,0.0,Cash on Delivery,Delivered,599.0
+ORD-0065,2025-06-14,CUST-029,Bhopal,Cotton T-Shirt,Fashion,2,599,0.1,Net Banking,Shipped,1078.2
+ORD-0066,2025-03-28,CUST-033,Durg,Office Chair,Home & Office,3,5499,0.0,UPI,Delivered,16497.0
+ORD-0067,2025-04-26,CUST-002,Raipur,Notebook Set,Stationery,2,249,0.0,Credit Card,Delivered,498.0
+ORD-0068,2025-02-07,CUST-041,Bhopal,Office Chair,Home & Office,2,5499,0.1,Cash on Delivery,Shipped,9898.2
+ORD-0069,2025-03-17,CUST-050,Pune,Office Chair,Home & Office,1,5499,0.0,Credit Card,Delivered,5499.0
+ORD-0070,2025-12-23,CUST-004,Bhopal,USB-C Cable,Electronics,3,299,0.15,UPI,Shipped,762.45
+ORD-0071,2025-08-26,CUST-039,Durg,Office Chair,Home & Office,1,5499,0.15,Cash on Delivery,Cancelled,4674.15
+ORD-0072,2025-09-16,CUST-029,Nagpur,Cotton T-Shirt,Fashion,3,599,0.1,Cash on Delivery,Cancelled,1617.3
+ORD-0073,2025-05-07,CUST-032,Bhopal,Office Chair,Home & Office,1,5499,0.05,Debit Card,Cancelled,5224.05
+ORD-0074,2025-05-27,CUST-022,Durg,Office Chair,Home & Office,1,5499,0.0,Net Banking,Delivered,5499.0
+ORD-0075,2025-04-29,CUST-010,Bhopal,Bluetooth Headphones,Electronics,1,1499,0.1,UPI,Returned,1349.1
+ORD-0076,2025-10-05,CUST-004,Bhopal,Desk Lamp,Home & Office,1,899,0.1,Cash on Delivery,Shipped,809.1
+ORD-0077,2025-10-27,CUST-025,Delhi,Desk Lamp,Home & Office,4,899,0.0,UPI,Cancelled,3596.0
+ORD-0078,2025-07-19,CUST-048,Bhopal,Water Bottle,Accessories,1,399,0.1,Cash on Delivery,Cancelled,359.1
+ORD-0079,2025-09-06,CUST-022,Pune,Notebook Set,Stationery,1,249,0.0,Credit Card,Shipped,249.0
+ORD-0080,2025-11-15,CUST-026,Raipur,Office Chair,Home & Office,4,5499,0.15,UPI,Delivered,18696.6
+ORD-0081,2025-08-25,CUST-017,Pune,Coffee Mug,Home & Office,1,349,0.0,Debit Card,Delivered,349.0
+ORD-0082,2025-06-22,CUST-049,Pune,Notebook Set,Stationery,2,249,0.1,Debit Card,Delivered,448.2
+ORD-0083,2025-10-04,CUST-015,Indore,Bluetooth Headphones,Electronics,2,1499,0.0,UPI,Delivered,2998.0
+ORD-0084,2025-04-13,CUST-010,Bhopal,Wireless Mouse,Electronics,4,699,0.0,Credit Card,Cancelled,2796.0
+ORD-0085,2025-10-16,CUST-045,Bilaspur,Office Chair,Home & Office,2,5499,0.0,Debit Card,Shipped,10998.0
+ORD-0086,2025-02-28,CUST-007,Raipur,USB-C Cable,Electronics,2,299,0.0,Debit Card,Delivered,598.0
+ORD-0087,2025-07-12,CUST-013,Indore,Cotton T-Shirt,Fashion,2,599,0.1,Net Banking,Returned,1078.2
+ORD-0088,2025-05-05,CUST-050,Bilaspur,Phone Stand,Electronics,3,499,0.0,Net Banking,Returned,1497.0
+ORD-0089,2025-10-17,CUST-035,Pune,Bluetooth Headphones,Electronics,3,1499,0.0,Debit Card,Delivered,4497.0
+ORD-0090,2025-06-24,CUST-053,Delhi,Bluetooth Headphones,Electronics,2,1499,0.0,UPI,Shipped,2998.0
+ORD-0091,2025-11-22,CUST-010,Pune,Desk Lamp,Home & Office,4,899,0.1,Credit Card,Returned,3236.4
+ORD-0092,2025-11-30,CUST-052,Delhi,Phone Stand,Electronics,2,499,0.05,Cash on Delivery,Cancelled,948.1
+ORD-0093,2025-10-31,CUST-055,Bhopal,Desk Lamp,Home & Office,3,899,0.05,UPI,Delivered,2562.15
+ORD-0094,2025-05-05,CUST-040,Pune,Backpack,Accessories,3,1199,0.1,Debit Card,Cancelled,3237.3
+ORD-0095,2025-06-16,CUST-014,Durg,Wireless Mouse,Electronics,2,699,0.0,Debit Card,Shipped,1398.0
+ORD-0096,2025-11-02,CUST-001,Bhopal,Water Bottle,Accessories,1,399,0.05,UPI,Cancelled,379.05
+ORD-0097,2025-09-08,CUST-045,Delhi,Notebook Set,Stationery,2,249,0.15,Cash on Delivery,Delivered,423.3
+ORD-0098,2025-02-17,CUST-026,Bhopal,Office Chair,Home & Office,3,5499,0.05,Debit Card,Delivered,15672.15
+ORD-0099,2025-08-31,CUST-023,Pune,Coffee Mug,Home & Office,2,349,0.15,Net Banking,Cancelled,593.3
+ORD-0100,2025-08-21,CUST-017,Bhopal,Water Bottle,Accessories,1,399,0.05,UPI,Delivered,379.05
+ORD-0101,2025-03-03,CUST-012,Bhopal,Phone Stand,Electronics,1,499,0.15,Credit Card,Returned,424.15
+ORD-0102,2025-10-29,CUST-019,Indore,Phone Stand,Electronics,2,499,0.15,Credit Card,Cancelled,848.3
+ORD-0103,2025-04-02,CUST-046,Nagpur,Backpack,Accessories,1,1199,0.05,Debit Card,Delivered,1139.05
+ORD-0104,2025-10-11,CUST-009,Delhi,Wireless Mouse,Electronics,5,699,0.05,UPI,Returned,3320.25
+ORD-0105,2025-08-29,CUST-022,Nagpur,Wireless Mouse,Electronics,2,699,0.1,UPI,Shipped,1258.2
+ORD-0106,2025-09-02,CUST-026,Delhi,Backpack,Accessories,4,1199,0.0,UPI,Delivered,4796.0
+ORD-0107,2025-01-28,CUST-052,Bilaspur,Cotton T-Shirt,Fashion,2,599,0.0,UPI,Delivered,1198.0
+ORD-0108,2025-08-02,CUST-051,Bhopal,Notebook Set,Stationery,1,249,0.15,Net Banking,Cancelled,211.65
+ORD-0109,2025-08-15,CUST-028,Bilaspur,Desk Lamp,Home & Office,2,899,0.05,Net Banking,Cancelled,1708.1
+ORD-0110,2025-02-20,CUST-014,Bilaspur,Cotton T-Shirt,Fashion,1,599,0.0,UPI,Returned,599.0
+ORD-0111,2025-10-10,CUST-001,Pune,USB-C Cable,Electronics,1,299,0.0,Cash on Delivery,Delivered,299.0
+ORD-0112,2025-05-30,CUST-019,Bilaspur,Phone Stand,Electronics,2,499,0.0,Cash on Delivery,Delivered,998.0
+ORD-0113,2025-05-16,CUST-052,Bhopal,Bluetooth Headphones,Electronics,2,1499,0.15,Cash on Delivery,Returned,2548.3
+ORD-0114,2025-11-28,CUST-053,Nagpur,Bluetooth Headphones,Electronics,2,1499,0.0,UPI,Delivered,2998.0
+ORD-0115,2025-06-07,CUST-053,Bilaspur,Wireless Mouse,Electronics,1,699,0.15,Cash on Delivery,Returned,594.15
+ORD-0116,2025-06-05,CUST-033,Delhi,Bluetooth Headphones,Electronics,2,1499,0.1,Cash on Delivery,Delivered,2698.2
+ORD-0117,2025-08-10,CUST-017,Raipur,Bluetooth Headphones,Electronics,2,1499,0.05,UPI,Cancelled,2848.1
+ORD-0118,2025-10-22,CUST-049,Bilaspur,Notebook Set,Stationery,4,249,0.15,Net Banking,Delivered,846.6
+ORD-0119,2025-03-31,CUST-042,Delhi,Wireless Mouse,Electronics,3,699,0.1,Debit Card,Cancelled,1887.3
+ORD-0120,2025-08-12,CUST-031,Durg,USB-C Cable,Electronics,5,299,0.1,Cash on Delivery,Delivered,1345.5
