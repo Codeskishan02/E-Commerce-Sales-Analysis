@@ -4,6 +4,13 @@
 
 This project analyzes e-commerce sales and order data using SQL.
 
+##project result
+
+Total Sales: ₹2,87,789.30
+Total Orders: 120
+Total Quantity Sold: 253
+Average Order Value: ₹2,398.24
+
 ## Tools Used
 
 - MySQL
