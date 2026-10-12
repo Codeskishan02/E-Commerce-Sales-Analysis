@@ -161,3 +161,20 @@ E-Commerce-Sales-Analysis/
 ├── ecommerce_analysis.sql
 ├── ecommerce_orders_cleaned.csv
 └── README.md
+-- 1. Total Sales
+SELECT SUM(Sales_Amount) AS Total_Sales FROM ecommerce_orders;
+
+-- 2. Total Orders
+SELECT COUNT(*) AS Total_Orders FROM ecommerce_orders;
+
+-- 3. Total Quantity Sold
+SELECT SUM(Quantity) AS Total_Quantity FROM ecommerce_orders;
+
+-- 4. Average Order Value
+SELECT ROUND(AVG(Sales_Amount), 2) AS Average_Order_Value FROM ecommerce_orders;
+
+-- 5. Category-wise Sales
+SELECT Category, SUM(Sales_Amount) AS Total_Sales
+FROM ecommerce_orders
+GROUP BY Category
+ORDER BY Total_Sales DESC;
