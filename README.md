@@ -36,3 +36,22 @@ Top products
 Top customers
 Monthly sales
 Discount analysis
+## Python Data Analysis
+
+Python was used to analyse the cleaned e-commerce dataset.
+
+**Libraries Used:**
+- Pandas – Data manipulation and analysis.
+- Matplotlib – Data visualization.
+
+**Analysis Performed:**
+- Checked missing values.
+- Checked duplicate records.
+- Calculated total sales.
+- Calculated total orders and quantity.
+- Calculated Average Order Value (AOV).
+- Performed category-wise sales analysis.
+
+## Category-wise Sales Visualization
+
+![Category-wise Sales Analysis](category-wise_Sales_Analysis.png)
