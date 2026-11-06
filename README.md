@@ -51,5 +51,6 @@ Python was used to analyse the cleaned e-commerce dataset.
 - Calculated total orders and quantity.
 - Calculated Average Order Value (AOV).
 - Performed category-wise sales analysis.
+## Category-wise Sales Visualization
 
-
+![Category-wise Sales Analysis](Category-wise%20Sales%20Analysis.png)
